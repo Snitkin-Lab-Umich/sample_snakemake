@@ -1,0 +1,6 @@
+.snakemake/
+dag.svg
+figures/
+results/
+slurm-*
+logfiles/*.out
