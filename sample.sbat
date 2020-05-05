@@ -1,8 +1,8 @@
 #!/bin/sh
 # Job name
-#SBATCH --job-name=example_snakemake
+#SBATCH --job-name=sample_snakemake
 # User info
-#SBATCH --mail-user=zenalapp@umich.edu
+#SBATCH --mail-user=UNIQNAME@umich.edu
 #SBATCH --mail-type=BEGIN,END,NONE,FAIL,REQUEUE
 #SBATCH --export=ALL
 #SBATCH --partition=standard

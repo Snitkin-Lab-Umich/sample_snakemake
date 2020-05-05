@@ -7,7 +7,7 @@ __default__:
   time: "1:00:00"
   account: "esnitkin1"
   partition: "standard"
-  mailuser: "zenalapp@umich.edu"
+  mailuser: "UNIQNAME@umich.edu"
   mailtype: "BEGIN,END,FAIL"
   output: "logfiles/%x-%j.out"
 

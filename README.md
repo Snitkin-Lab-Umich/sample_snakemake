@@ -37,10 +37,10 @@ Useful snakemake arguments:
 ## Running snakemake on the cluster
 
 To run snakemake on the cluster, you have to modify your email address in:
-- `example.sbat`
+- `sample.sbat`
 - `config/cluster.yaml`
 
 Then run
 ```
-sbatch example.sbat
+sbatch sample.sbat
 ```
