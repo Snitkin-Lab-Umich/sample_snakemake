@@ -11,3 +11,7 @@ __default__:
   mailtype: "BEGIN,END,FAIL"
   output: "logfiles/%x-%j.out"
 
+# modify config for certain rules
+plot_histogram:
+  time: "10:00"
+
